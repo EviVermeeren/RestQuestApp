@@ -1,0 +1,1432 @@
+a {
+    text-decoration: none;
+    color: #1E1B18;
+    font-size: 20px;
+}
+
+body {
+    background-color: #9CC6C0;
+}
+
+.logo {
+    width: 60%;
+    display: block;
+    margin: auto;
+    margin-top: 15%;
+}
+
+.logo2 {
+    width: 60%;
+    display: block;
+    margin: auto;
+    margin-top: 25%;
+}
+
+.setting {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.home {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.help {
+    margin-top: 10px; 
+    margin-left: 65%;
+}
+
+.account {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.question {
+    display: block;
+    text-align: center;
+    margin-top: 60%;
+    margin-bottom: 30px;
+}
+
+.header {
+    font-size: 35px; 
+    font-family: Canto-Semibold, Canto;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 100px;
+    color: #484C4B;
+}
+
+.header2 {
+    font-size: 20px; 
+    font-family: Canto-Semibold, Canto;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+    color: #484C4B;
+}
+
+.header3 {
+    font-size: 35px; 
+    font-family: Canto-Semibold, Canto;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 47px;
+    color: #484C4B;
+}
+
+p {
+    color: #FFFBEC;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 40px;
+
+}
+
+#error {
+    color: #FFFBEC;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 40px;
+}
+
+.ponderlogo {
+    color: #FFFBEC;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.buttonA1 {
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin-top: 15%;
+    border: 2px solid #FFC866;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+    margin-bottom: 10px;
+    font-size: 1.7em;
+}
+
+.buttonA2 {
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin-top: 15px;
+    border: 2px solid #FFC866;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+    margin-bottom: 10px;
+    font-size: 1.7em;
+
+}
+
+.buttonA255 {
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin-top: 15px;
+    border: 2px solid #FFC866;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+    font-size: 1.7em;
+
+}
+
+.buttonA3 {
+    width: 200px;
+    margin: auto;
+    display: block;
+    text-align: center;
+    margin-top: 285px;
+    border: 2px solid #FFC866;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+    font-size: 1.7em;
+}
+
+.buttonA9 {
+    height: 20px;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 8px;
+    padding-bottom: 12px;
+    border: 2px solid #FFC866;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA10 {
+    display: block;
+    text-align: center;
+    margin-top: 70px;
+    border: 2px solid #FFC866;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+
+.buttonA11 {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    border: 2px solid #FFC866;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+    margin-bottom: 25px;
+}
+
+/*
+.buttonA13 {
+    display: block;
+    text-align: center;
+    margin-top: 173px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA14 {
+    display: block;
+    text-align: center;
+    margin-top: 178px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA15 {
+    display: block;
+    text-align: center;
+    margin-top: 142px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA16 {
+    display: block;
+    text-align: center;
+    margin-top: 199px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA17 {
+    display: block;
+    text-align: center;
+    margin-top: 309.5px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA18 {
+    display: block;
+    text-align: center;
+    margin-top: 23px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA19 {
+    display: block;
+    text-align: center;
+    margin-top: 19px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA20 {
+    display: block;
+    text-align: center;
+    margin-top: 180px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA21 {
+    display: block;
+    text-align: center;
+    margin-top: 230px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA22 {
+    display: block;
+    text-align: center;
+    margin-top: 45px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA23 {
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA24 {
+    display: block;
+    text-align: center;
+    margin-top: 35px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA25 {
+    display: block;
+    text-align: center;
+    margin-top: 243px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA26 {
+    display: block;
+    text-align: center;
+    margin-top: 40px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA27 {
+    display: block;
+    text-align: center;
+    margin-top: 143px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+.buttonA28 {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA29 {
+    display: block;
+    text-align: center;
+    margin-top: 181px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA30 {
+    display: block;
+    text-align: center;
+    margin-top: 51px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA31 {
+    display: block;
+    text-align: center;
+    margin-top: 329px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonA32 {
+    display: block;
+    text-align: center;
+    margin-top: 88px;
+    border: 2px solid #FFC866;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+*/
+
+.buttonB1 {
+    margin: auto;
+    display: block;
+    text-align: center;
+    margin-top: 40px;
+    border: 2px solid #FFC866;
+    width: 80%;
+    margin-bottom: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+
+}
+
+.buttonB2 {
+    margin: auto;
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border: 2px solid #FFC866;
+    width: 80%;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+
+}
+
+.buttonB3 {
+    margin: auto;
+    width: 300px;
+    display: block;
+    text-align: left;
+    margin-top: 40px;
+    padding-left: 15px;
+    border: 2px solid #FFC866;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+
+}
+
+.buttonB3toggle {
+    margin: auto;
+    width: 300px;
+    display: block;
+    text-align: left;
+    margin-top: 40px;
+    padding-left: 15px;
+    border: 2px solid #ffab1b;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #ffab1b;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+}
+
+.buttonB4 {
+    margin: auto;
+    width: 300px;
+    display: block;
+    text-align: left;
+    margin-top: 15px;
+    padding-left: 15px;
+    border: 2px solid #FFC866;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+
+}
+
+.buttonB4toggle {
+    display: block;
+    text-align: left;
+    margin: auto;
+    margin-top: 15px;
+    padding-left: 15px;
+    border: 2px solid #ffab1b;
+    width: 300px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #ffab1b;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+
+}
+
+.buttonC1 {
+    margin: auto;
+    width: 300px;
+    display: flex;
+    text-align: left;
+    margin-top: 15px;
+    padding-left: 15px;
+    border: 2px solid #FFC866;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+    font-size: 15px;
+}
+
+.buttonC2 {
+    margin: auto;
+    width: 300px;
+    display: flex;
+    text-align: left;
+    margin-top: 15px;
+    padding-left: 15px;
+    border: 2px solid #FFC866;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+    font-size: 15px;
+    opacity: 75%;
+}
+
+.smalllink {
+    display: block;
+    text-align: center;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    font-size: 15px;
+    color: #FFFBEC;
+    margin-bottom: 20px;
+}
+
+#breathe {
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    font-size: 15px;
+    color: #FFFBEC;
+}
+
+.nameinput {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 240px;
+    text-align: left;
+    margin-top: 40px;
+    border: 2px solid #FFC866;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    background-color: #FFFBEC;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+}
+
+.nameinput2 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 240px;
+    text-align: left;
+    margin-top: 10px;
+    border: 2px solid #FFC866;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    background-color: #FFFBEC;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+}
+
+.nameinput20 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 240px;
+    text-align: left;
+    margin-top: 50px;
+    border: 2px solid #FFC866;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    background-color: #FFFBEC;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+}
+
+.textinput {
+    display: block;
+    resize: none;
+    margin: auto;
+    width: 240px;
+    height: 125px;
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+    border: 2px solid #FFC866;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    background-color: #FFFBEC;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+
+}
+
+.textinput2 {
+    display: block;
+    resize: none;
+    margin-right: auto;
+    margin-left: auto;
+    width: 240px;
+    height: 50px;
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+    border: 2px solid #FFC866;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    background-color: #FFFBEC;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+
+}
+
+.textinput3 {
+    display: block;
+    resize: none;
+    margin-right: auto;
+    margin-left: auto;
+    width: 300px;
+    height: 100px;
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+    border: 2px solid #FFC866;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    background-color: #FFFBEC;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+
+}
+
+
+::placeholder {
+    padding-left: 10px;
+    font-size: 15px;
+}
+
+#beloning {
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-bottom: 75px;
+}
+
+.profilepic {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+.profilestats {
+    width: 372.37px;
+    height: 345.23px;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#bewerkavatar {
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    font-size: 25px;
+    color: #FFFBEC;
+    text-decoration: underline;
+}
+
+.buttonpic {
+    width: 330px;
+    height: 140.2px;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+.cart {
+    display: block;
+    text-align: center;
+    margin-top: 55px;
+    margin-bottom: 25px;
+}
+
+.qoin {
+    width: 15px;
+}
+
+.money {
+    margin-top: -25px;
+    font-size: 1.3em;
+}
+
+.arrow {
+    margin-top: 50px;
+}
+
+.moneyshop {
+    margin: auto;
+    max-width: 300px;
+    display: flex;
+    margin-top: 30px;
+}
+
+.sloth {
+    width: 90px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sloth1 {
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-right: 10px;
+}
+
+.centersloth {
+    display: flex;
+    justify-content: center;
+}
+
+.left {
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.right {
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.choose {
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+}
+
+.animal {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    margin-top: 35px;
+}
+
+.money2 {
+    margin-top: 20px;
+    font-size: 1.3em;
+}
+
+.swipe {
+    width: 40px;
+    margin-left: 150px;
+    margin-bottom: -5px;
+}
+
+.premium {
+    color: #484C4B;
+    display: block;
+    text-align: left;
+    padding-left: 15px;
+    border: 2px solid #FFC866;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFFBEC;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+    margin: auto;
+    width: 250px;
+}
+
+.buttonB5 {
+    margin: auto;
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border: 2px solid #FFC866;
+    width: 270px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-color: #FFC866;
+    font-family: MetallophileSp8-Light, Metallophile Sp8;
+    font-weight: 300;
+    box-shadow: 5px 5px 15px -10px #2b2b2b;
+
+}
+
+.breath {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+}
+
+.breath1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.breath1animation {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    animation: breath 30s ease-in-out 0s forwards;
+
+}
+
+@keyframes breath {
+    0%{transform: scale(1,1);}
+    
+    15%{transform: scale(1.5,1.5);}
+    
+    30%{transform: scale(1,1);}
+    
+    45%{transform: scale(1.5,1.5);}
+    
+    60%{transform: scale(1,1);}
+
+    80%{transform: scale(1.5,1.5);}
+
+    100%{transform: scale(1,1);}
+}
+
+.agenda {
+    width: 320px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.smiley {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.p1 {
+    margin-top: 40px;
+    font-size: 1.3em;
+}
+
+.howyoufeel {
+    display: block;
+    margin: auto;
+    margin: auto;
+    width: 350px;
+    height: 200px;
+}
+
+.agendastat {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.level1 {
+    
+    display: block;
+    margin-left: 125px;
+    width: 50px;
+    margin-top: -10px;
+}
+
+.level2 {
+    width: 50px;
+    display: block;
+    margin-left: 165px;
+    margin-top: -22px;
+}
+
+.level3 {
+    width: 50px;
+    display: block;
+    margin-left: 90px;
+    margin-top: -40px;
+}
+
+.level4 {
+    width: 50px;
+    display: block;
+    margin-left: 175px;
+    margin-top: -45px;
+}
+
+.level5 {
+    width: 50px;
+    display: block;
+    margin-left: 220px;
+    margin-top: -40px;
+}
+
+.level6 {
+    width: 50px;
+    display: block;
+    margin-left: 145px;
+    margin-top: -35px;
+}
+
+.level7 {
+    width: 50px;
+    display: block;
+    margin-left: 70px;
+    margin-top: -33px;
+}
+
+.line1 {
+    margin-left: 150px;
+    margin-top: -15px;
+}
+
+.line2 {
+    margin-left: 160px;
+    margin-top: -14px;
+}
+
+.line3 {
+    margin-left: 131px;
+    margin-top: -32px;
+}
+
+.line4 {
+    margin-left: 131px;
+    margin-top: -40px;
+}
+
+.line5 {
+    margin-left: 208px;
+    margin-top: -35px;
+}
+
+.line6 {
+    margin-left: 179px;
+    margin-top: -30px;
+}
+
+.line7 {
+    margin-left: 102px;
+    margin-top: -34px;
+}
+
+.line8 {
+    margin-left: 88px;
+    margin-top: -1px;
+}
+
+.questions {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.answer{
+    margin-top: 20px;
+}
+
+.bought {
+    margin-top: 35px;
+}
+
+@media (min-width: 500px) { 
+    .logo2 {
+        margin-top: 5%;
+        width: 50%;
+    }
+
+    .logo {
+        margin-top: 5%;
+        width: 50%;
+    }
+
+    .buttonA1, .buttonA2, .buttonA255, .buttonA3 {
+        width: 240px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        font-size: 1.5em;
+    }
+
+    .buttonB3, .buttonB3toggle, .buttonB4, .buttonB4toggle {
+        width: 340px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    
+    }
+
+    .buttonC1, .buttonC2 {
+        width: 340px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        font-size: 1.1em;
+
+    }
+
+    .swipe {
+        margin-left: 190px;
+    }
+
+    .nameinput2, .nameinput20, .textinput {
+        width: 280px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+
+    ::placeholder {
+        font-size: 1.2em;
+    }
+
+    .smalllink {
+        font-size: 1.2em;
+    }
+
+    .ponderlogo {
+        margin-top: 40px;
+        font-size: 1.2em;
+    }
+
+    #beloning {
+        width: 300px;
+    }
+
+    .buttonB1, .buttonB2 {
+        width: 350px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 1.4em;
+    }
+
+    p {
+        width: 350px;
+        margin: auto;
+    }
+
+    .answer {
+        font-size: 1em;
+    }
+
+    .header3 {
+        font-size: 2.6em;
+    }
+
+    .profilepic {
+        width: 200px;
+        height: 200px;
+    }
+    
+    .profilestats {
+        width: 286.44px;
+        height: 265.56px;
+    }
+    
+    #bewerkavatar {
+        font-size: 1.2em;
+    }
+
+    .buttonpic {
+        width: 325px;
+        height: 138.1px;
+        margin-bottom: 40px;
+    }
+
+    .moneyshop {
+        max-width: 350px;
+        margin-bottom: 20px;
+    }
+    
+    .sloth {
+        width: 100px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+    .sloth1 {
+        width: 100px;
+        margin-left: 10px;
+        margin-top: 30px;
+        margin-right: 10px;
+    }
+
+    .buttonA9 {
+        width: 100px;
+        padding-top: 10px;
+        padding-bottom: 15px;
+        font-size: 1.4em;
+    }
+
+    .breath {
+        width: 150px;
+        height: 150px;
+    }
+
+    .agenda {
+        width: 300px;;
+
+    }
+
+    .smiley {
+        width: 270px;
+        height: 50px;
+        margin-top: 5px;
+    }
+
+    .textinput2 {
+        width: 260px;
+    }
+
+}
+
+@media (min-width: 650px) { 
+
+    .buttonC1, .buttonC2 {
+        width: 400px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        font-size: 1.2em;
+
+    }
+
+    .answer {
+        font-size: 1em;
+    }
+
+    .swipe {
+        margin-left: 180px;
+    }
+    
+    .buttonA1 {
+        margin-top: 50px;
+    }
+
+    .logo2, .logo {
+        width: 300px;
+        margin-top: 5%;
+    }
+
+    .nameinput2, .nameinput20, .textinput {
+        width: 330px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    ::placeholder {
+        font-size: 1.2em;
+    }
+
+    .header3 {
+        font-size: 2.6em;
+    }
+
+    p {
+        width: 400px;
+        margin: auto;
+    }
+    
+    #bewerkavatar {
+        font-size: 1.3em;
+    }
+
+    .buttonpic {
+        margin-bottom: 40px;
+    }
+
+    .textinput2 {
+        width: 320px;
+    }
+
+}
+
+@media (min-width: 800px) { 
+
+    .swipe {
+        margin-left: 180px;
+    }
+
+    .answer {
+        font-size: 1em;
+    }
+
+    #beloning {
+        width: 350px;
+    }
+
+    .buttonpic {
+        margin-bottom: 40px;
+    }
+
+    .logo2 {
+        margin-top: 5%;
+    }
+
+    .logo {
+        margin-top: 5%;
+    }
+
+
+}
+
+@media (min-width: 1100px) { 
+    
+    .buttonA1 {
+        margin-top: 50px;
+    }
+
+    .logo2 {
+        margin-top: 5%;
+    }
+
+    .logo {
+        margin-top: 5%;
+    }
+}
+
+.lala {
+    max-width: 400px;
+    margin: auto;
+}
+
+.lala2 {
+    max-width: 400px;
+    margin: auto;
+    text-align: left;
+}
